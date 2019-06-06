@@ -89,7 +89,7 @@ VALUES (123,1,'2019-01-01 03:03:10'),
        (456,2,'2019-02-01 23:11:10'),
        (789,3,'2019-03-01 14:22:10');
 
-INSERT into PRODUCT (id, code, title, supplier, initial_price, retail_value)
+INSERT into PRODUCT (id, code, title, supplier, initial_price, retail_price)
 VALUES (001,'9800001','Product1',1,111.5,120),
        (002,'9800002','Product2',2,11,22),
        (003,'9800003','Product3',3,444.4,1003);
